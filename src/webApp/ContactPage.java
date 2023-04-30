@@ -2,6 +2,8 @@ package webApp;
 
 public class ContactPage {
     //Facebook
-    //twitter
+    //Twitter
     //Instagram
+    //Youtube
+    //email
 }
